@@ -23,5 +23,7 @@ Employers can provide contact details (contact name, email, phone number, and po
 Using an online dating agency analogy, the site should match placements with students. Employers and students should be contacted (by email?) when a potential match occurs.Use Resources
 
 BCS Manchester: http://www.bcs.org/category/18153
+
 SFIA V6.0: https://www.sfia-online.org/en
+
 GMCA Digital City Region: https://www.greatermanchester-ca.gov.uk/info/20153/digital_city_region
